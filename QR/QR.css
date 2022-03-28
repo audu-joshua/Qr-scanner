@@ -1,0 +1,37 @@
+.sub{
+    border: 30px white solid;
+    border-radius: 5%;
+    margin: 0 auto;
+    background-color: white;
+   margin-top: 2.5%
+    
+}
+
+.main{
+    background-color : rgb(196, 192, 196);
+    /*text-align: center;*/
+    margin:0 auto;
+    display: flex;
+    align-items: center;
+}
+
+.text1{
+    width: 300px;
+    text-align: center;
+    /*padding-left: 46px;*/
+    font-size: 26px;
+}
+
+.text2{
+    width: 250px;
+    text-align: center;
+    padding-top: 10px;
+    /*padding-left: 65px;*/
+    font-size: 17px;
+
+}
+
+.text1, .text2{
+    max-width: 100%;
+    margin: 0 auto;
+}
